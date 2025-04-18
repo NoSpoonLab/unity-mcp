@@ -1,0 +1,10 @@
+{
+    "name": "com.nospoonlab.unity-mcp",
+    "version": "0.1.0",
+    "displayName": "UnityMCP Bridge",
+    "description": "A communication bridge between Large Language Models (LLMs) and the Unity Editor. This package enables seamless integration, allowing LLMs to interact with and control Unity Editor features for advanced automation, tooling, and intelligent workflows.",
+    "unity": "2020.3",
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.0.2"
+    }
+  }

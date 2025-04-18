@@ -1,0 +1,51 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+# Archivos de compilación
+bin/
+obj/
+*.cache
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache.meta
+
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos de logs
+*.log
+*.log.*
+
+# Archivos de configuración local
+appsettings.*.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de caché de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.code-workspace
+mcp.json
+
+# Archivos de Unity
+*.meta
+
